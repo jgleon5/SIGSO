@@ -17,6 +17,8 @@ import java.util.Random;
 public class Calculo {
     //tamaño de la poblacion
         private int push = 35 ;
+                private int pussh = 35 ;
+
         private int POP = 30;
         //geneo tipo
         private int LEN = 10;
